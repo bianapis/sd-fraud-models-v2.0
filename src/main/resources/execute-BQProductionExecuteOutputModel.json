@@ -1,0 +1,23 @@
+{
+  "productionExecuteRecordReference" : "PERR793179",
+  "executeResponseRecord" : {},
+  "productionExecuteActionTaskReference" : "PEATR734098",
+  "productionExecuteActionTaskRecord" : {},
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus",
+    "fraudModelDeployment" : {
+      "fraudModelDeploymentConfiguration" : {
+        "fraudModelDeploymentTaskRecord" : {},
+        "fraudModelDeploymentTaskReference" : "761920"
+      }
+    }
+  },
+  "productionInstanceRecord" : {
+    "fraudModelAllowedUsage" : "fraudModelAllowedUsage",
+    "fraudModelOperationalRequirements" : "fraudModelOperationalRequirements",
+    "fraudModelUsageGuidelines" : "fraudModelUsageGuidelines"
+  }
+}

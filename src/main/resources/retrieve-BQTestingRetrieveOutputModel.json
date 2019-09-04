@@ -1,0 +1,33 @@
+{
+  "testingRetrieveActionResponse" : "testingRetrieveActionResponse",
+  "testingRetrieveActionTaskRecord" : {},
+  "testingInstanceAnalysis" : {
+    "testingInstanceAnalysisReportType" : "testingInstanceAnalysisReportType",
+    "testingInstanceAnalysisRecord" : {},
+    "testingInstanceAnalysisParameters" : "testingInstanceAnalysisParameters",
+    "testingInstanceAnalysisReport" : {}
+  },
+  "testingInstanceReport" : {
+    "testingInstanceReportType" : "testingInstanceReportType",
+    "testingInstanceReportRecord" : {},
+    "testingInstanceReport" : {},
+    "testingInstanceReportParameters" : "testingInstanceReportParameters"
+  },
+  "testingRetrieveActionTaskReference" : "TRATR716468",
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModelType" : "fraudModelType",
+    "fraudModelDeployment" : {
+      "employeeBusinessUnitReference" : "704594"
+    }
+  },
+  "testingInstanceRecord" : {
+    "fraudModelTestReference" : "712321",
+    "fraudModelTestType" : "fraudModelTestType",
+    "fraudModelTestResult" : {
+      "fraudModelTestingTaskReference" : "711487",
+      "fraudModelTestingTaskRecord" : {}
+    },
+    "fraudModelTestHarnessReference" : "752515"
+  }
+}

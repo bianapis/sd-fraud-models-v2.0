@@ -1,0 +1,14 @@
+{
+  "testingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "testingUpdateActionTaskReference" : "TUATR709504",
+  "testingInstanceRecord" : {
+    "fraudModelTestReference" : "765201",
+    "fraudModelTestType" : "fraudModelTestType",
+    "fraudModelTestResult" : {
+      "fraudModelTestingTaskReference" : "757342",
+      "fraudModelTestingTaskRecord" : {}
+    },
+    "fraudModelTestHarnessReference" : "726972"
+  }
+}

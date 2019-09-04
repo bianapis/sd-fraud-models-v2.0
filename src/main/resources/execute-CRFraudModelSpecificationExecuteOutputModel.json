@@ -1,0 +1,21 @@
+{
+  "executeRecordReference" : "ERR790525",
+  "fraudModelSpecificationExecuteActionTaskReference" : "FMSEATR773566",
+  "fraudModelSpecificationExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelPurpose" : "fraudModelPurpose",
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModelType" : "fraudModelType",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus",
+    "fraudModelDeployment" : {
+      "employeeBusinessUnitReference" : "771775",
+      "fraudModelDeploymentConfiguration" : {
+        "fraudModelDeploymentTaskRecord" : {},
+        "fraudModelDeploymentTaskReference" : "775525"
+      }
+    }
+  }
+}

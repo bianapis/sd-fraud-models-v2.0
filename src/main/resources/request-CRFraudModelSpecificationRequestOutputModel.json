@@ -1,0 +1,21 @@
+{
+  "requestRecordReference" : "RRR761137",
+  "fraudModelSpecificationRequestActionTaskReference" : "FMSRATR731478",
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelPurpose" : "fraudModelPurpose",
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModelType" : "fraudModelType",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus",
+    "fraudModelDeployment" : {
+      "employeeBusinessUnitReference" : "735253",
+      "fraudModelDeploymentConfiguration" : {
+        "fraudModelDeploymentTaskRecord" : {},
+        "fraudModelDeploymentTaskReference" : "721642"
+      }
+    }
+  },
+  "fraudModelSpecificationRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

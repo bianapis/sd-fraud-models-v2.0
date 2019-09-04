@@ -1,0 +1,19 @@
+{
+  "updateResponseRecord" : {},
+  "functionalRequirementsUpdateActionTaskRecord" : {},
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelPurpose" : "fraudModelPurpose",
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModelType" : "fraudModelType",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus"
+  },
+  "functionalRequirementsInstanceRecord" : {
+    "fraudModelDesignTaskRecord" : {},
+    "fraudModelRequirementsSpecification" : "fraudModelRequirementsSpecification",
+    "fraudModelDesignTaskReference" : "723133",
+    "fraudModelFeedbackRecord" : {}
+  },
+  "functionalRequirementsUpdateActionTaskReference" : "FRUATR733410"
+}

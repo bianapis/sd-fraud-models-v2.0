@@ -1,0 +1,35 @@
+{
+  "productionRetrieveActionTaskReference" : "PRATR795665",
+  "productionRetrieveActionResponse" : "productionRetrieveActionResponse",
+  "productionRetrieveActionTaskRecord" : {},
+  "productionInstanceReport" : {
+    "productionInstanceReportRecord" : {},
+    "productionInstanceReportType" : "productionInstanceReportType",
+    "productionInstanceReport" : {},
+    "productionInstanceReportParameters" : "productionInstanceReportParameters"
+  },
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus",
+    "fraudModelDeployment" : {
+      "employeeBusinessUnitReference" : "760623",
+      "fraudModelDeploymentConfiguration" : {
+        "fraudModelDeploymentTaskRecord" : {},
+        "fraudModelDeploymentTaskReference" : "726709"
+      }
+    }
+  },
+  "productionInstanceRecord" : {
+    "fraudModelAllowedUsage" : "fraudModelAllowedUsage",
+    "fraudModelOperationalRequirements" : "fraudModelOperationalRequirements",
+    "fraudModelUsageGuidelines" : "fraudModelUsageGuidelines"
+  },
+  "productionInstanceAnalysis" : {
+    "productionInstanceAnalysisParameters" : "productionInstanceAnalysisParameters",
+    "productionInstanceAnalysisReport" : {},
+    "productionInstanceAnalysisRecord" : {},
+    "productionInstanceAnalysisReportType" : "productionInstanceAnalysisReportType"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "fraudModelSpecificationInstanceReference" : "FMSIR764174",
+  "fraudModelSpecificationCreateActionReference" : "FMSCAR769084",
+  "fraudModelSpecificationInstanceStatus" : "fraudModelSpecificationInstanceStatus",
+  "fraudModelSpecificationCreateActionRecord" : {},
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelPurpose" : "fraudModelPurpose",
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModelImpact" : "fraudModelImpact",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus",
+    "fraudModelDeployment" : {
+      "fraudModelDeploymentConfiguration" : {
+        "fraudModelDeploymentTaskRecord" : {},
+        "fraudModelDeploymentTaskReference" : "753962"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "productionRequestActionTaskRecord" : {},
+  "productionRequestActionTaskReference" : "PRATR750531",
+  "productionRequestRecordReference" : "PRRR771753",
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus",
+    "fraudModelDeployment" : {
+      "fraudModelDeploymentConfiguration" : {
+        "fraudModelDeploymentTaskRecord" : {},
+        "fraudModelDeploymentTaskReference" : "703090"
+      }
+    }
+  },
+  "productionInstanceRecord" : {
+    "fraudModelAllowedUsage" : "fraudModelAllowedUsage",
+    "fraudModelOperationalRequirements" : "fraudModelOperationalRequirements",
+    "fraudModelUsageGuidelines" : "fraudModelUsageGuidelines"
+  },
+  "requestResponseRecord" : {}
+}

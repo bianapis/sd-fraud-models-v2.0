@@ -1,0 +1,31 @@
+{
+  "fraudModelSpecificationRetrieveActionTaskReference" : "FMSRATR767586",
+  "fraudModelSpecificationRetrieveActionTaskRecord" : {},
+  "fraudModelSpecificationRetrieveActionResponse" : "fraudModelSpecificationRetrieveActionResponse",
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelPurpose" : "fraudModelPurpose",
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModelImpact" : "fraudModelImpact",
+    "fraudModelType" : "fraudModelType",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus",
+    "fraudModelDeployment" : {
+      "employeeBusinessUnitReference" : "716232",
+      "fraudModelDeploymentConfiguration" : {
+        "fraudModelDeploymentTaskRecord" : {},
+        "fraudModelDeploymentTaskReference" : "701785"
+      }
+    }
+  },
+  "fraudModelSpecificationInstanceReportRecord" : {
+    "fraudModelSpecificationInstanceReportType" : "fraudModelSpecificationInstanceReportType",
+    "fraudModelSpecificationInstanceReport" : {},
+    "fraudModelSpecificationInstanceReportData" : "fraudModelSpecificationInstanceReportData"
+  },
+  "fraudModelSpecificationInstanceAnalysis" : {
+    "fraudModelSpecificationInstanceAnalysisReportType" : "fraudModelSpecificationInstanceAnalysisReportType",
+    "fraudModelSpecificationInstanceAnalysisData" : "fraudModelSpecificationInstanceAnalysisData",
+    "fraudModelSpecificationInstanceAnalysisReport" : {}
+  }
+}

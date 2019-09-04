@@ -1,0 +1,34 @@
+{
+  "functionalRequirementsInstanceReport" : {
+    "functionalRequirementsInstanceReportType" : "functionalRequirementsInstanceReportType",
+    "functionalRequirementsInstanceReportParameters" : "functionalRequirementsInstanceReportParameters",
+    "functionalRequirementsInstanceReportRecord" : {},
+    "functionalRequirementsInstanceReport" : {}
+  },
+  "functionalRequirementsRetrieveActionTaskRecord" : {},
+  "functionalRequirementsRetrieveActionResponse" : "functionalRequirementsRetrieveActionResponse",
+  "fraudModelSpecificationInstanceRecord" : {
+    "fraudModelPurpose" : "fraudModelPurpose",
+    "fraudModelUsage" : "fraudModelUsage",
+    "fraudModelVersion" : "fraudModelVersion",
+    "fraudModelImpact" : "fraudModelImpact",
+    "fraudModelType" : "fraudModelType",
+    "fraudModel" : "fraudModel",
+    "fraudModelStatus" : "fraudModelStatus"
+  },
+  "functionalRequirementsInstanceRecord" : {
+    "customerMarketDataRecord" : {},
+    "fraudModelDesignTaskRecord" : {},
+    "fraudModelRequirementsSpecification" : "fraudModelRequirementsSpecification",
+    "fraudModelDesignTaskReference" : "790619",
+    "fraudModelFeedbackRecord" : {},
+    "customerMarketDataServiceReference" : "757182"
+  },
+  "functionalRequirementsRetrieveActionTaskReference" : "FRRATR707922",
+  "functionalRequirementsInstanceAnalysis" : {
+    "functionalRequirementsInstanceAnalysisReportType" : "functionalRequirementsInstanceAnalysisReportType",
+    "functionalRequirementsInstanceAnalysisParameters" : "functionalRequirementsInstanceAnalysisParameters",
+    "functionalRequirementsInstanceAnalysisReport" : {},
+    "functionalRequirementsInstanceAnalysisRecord" : {}
+  }
+}
